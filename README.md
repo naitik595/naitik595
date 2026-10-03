@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Naitik 👋
 
-<!--
-**naitik595/naitik595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring full-stack developer learning to build modern web applications through structured study and hands-on projects.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building a foundation in web development with the CodeWithHarry Sigma course
+- HTML and CSS fundamentals completed; JavaScript is next
+- Practicing by building and documenting small projects
+
+## Featured project
+
+- [Netflix Landing Page Clone](https://github.com/naitik595/Netflix-Landing-Page-Clone) — responsive UI practice project built with HTML and CSS. [View the live demo](https://naitik595.github.io/Netflix-Landing-Page-Clone/).
+
+## Learning repository
+
+- [Sigma Web Development Course](https://github.com/naitik595/Sigma-Web-Development-Course) — course exercises and learning progress.
+
+I share my learning progress here as I grow toward full-stack development.
