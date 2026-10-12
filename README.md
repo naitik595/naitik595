@@ -4,10 +4,12 @@
 
 ### Aspiring Full-Stack Developer
 
-Learning to build clean, responsive web experiences through structured study and hands-on projects.
+Building clean, responsive web experiences through structured learning and hands-on projects.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 </div>
 
@@ -36,7 +38,7 @@ Course exercises, progress tracking, notes, and project milestones from my web-d
 ## Current toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="HTML, CSS, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="HTML, CSS, Git, and GitHub" width="240" />
 </p>
 
 ## Roadmap
@@ -54,7 +56,7 @@ TypeScript          Planned
 
 ## What I value
 
-- Understanding the fundamentals instead of only copying solutions
+- Understanding fundamentals instead of only copying solutions
 - Building projects to apply each concept
 - Writing clear, accessible, and maintainable code
 - Improving consistently at a sustainable pace
