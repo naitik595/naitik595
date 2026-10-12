@@ -38,13 +38,6 @@ My course exercises, progress tracking, notes, and project milestones are docume
 
 **Next:** JavaScript → React → Node.js / Express → MongoDB → Next.js → TypeScript
 
-## GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=naitik595&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Naitik's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik595&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Naitik's most used programming languages" height="165" />
-</p>
-
 ## Connect
 
 - GitHub: [@naitik595](https://github.com/naitik595)
