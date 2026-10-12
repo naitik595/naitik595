@@ -9,14 +9,20 @@ Aspiring full-stack developer building a strong foundation in web development th
 - Building responsive interfaces and documenting my progress on GitHub
 - JavaScript is next, followed by React, backend development, and full-stack projects
 
+## Current focus
+
+- Completing responsive HTML and CSS projects
+- Learning Git and GitHub workflows
+- Starting JavaScript after my current exams
+- Preparing for a future CSE/B.Tech path alongside web development
+
 ## Featured project
 
 ### Netflix Landing Page Clone
 
-A responsive Netflix-inspired landing page built to practice HTML structure, CSS layouts, responsive design, and visual styling.
+A responsive Netflix-inspired landing page built with HTML and CSS to practice layout, typography, responsive design, and visual styling.
 
-- [View the repository](https://github.com/naitik595/Netflix-Landing-Page-Clone)
-- [View the live demo](https://naitik595.github.io/Netflix-Landing-Page-Clone/)
+[View the repository](https://github.com/naitik595/Netflix-Landing-Page-Clone) · [View the live demo](https://naitik595.github.io/Netflix-Landing-Page-Clone/)
 
 ## Learning repository
 
@@ -24,19 +30,20 @@ A responsive Netflix-inspired landing page built to practice HTML structure, CSS
 
 My course exercises, progress tracking, notes, and project milestones are documented in this repository.
 
-## Current focus
+## Technologies I'm learning
 
-```text
-HTML and CSS       Complete
-Personal portfolio In progress
-JavaScript         Next
-React              Planned
-Backend            Planned
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="HTML, CSS, Git, and GitHub" />
+</p>
 
-## Technology path
+**Next:** JavaScript → React → Node.js / Express → MongoDB → Next.js → TypeScript
 
-HTML -> CSS -> JavaScript -> React -> Node.js / Express -> MongoDB -> Next.js -> TypeScript
+## GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=naitik595&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Naitik's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik595&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Naitik's most used programming languages" height="165" />
+</p>
 
 ## Connect
 
