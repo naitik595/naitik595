@@ -1,46 +1,71 @@
+<div align="center">
+
 # Hi, I'm Naitik 👋
 
-Aspiring full-stack developer building a strong foundation in web development through structured learning and hands-on projects.
+### Aspiring Full-Stack Developer
+
+Learning to build clean, responsive web experiences through structured study and hands-on projects.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/naitik595)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:naitik04560@gmail.com)
+
+</div>
 
 ## About me
 
-- Learning modern web development through the CodeWithHarry Sigma Web Development Course
-- HTML and CSS fundamentals completed
-- Building responsive interfaces and documenting my progress on GitHub
-- JavaScript is next, followed by React, backend development, and full-stack projects
-
-## Current focus
-
-- Completing responsive HTML and CSS projects
-- Learning Git and GitHub workflows
-- Starting JavaScript after my current exams
-- Preparing for a future CSE/B.Tech path alongside web development
+- Learning web development through the **Sigma Web Development Course by CodeWithHarry**
+- Completed HTML and CSS fundamentals
+- Building and documenting real projects while learning in public
+- Currently strengthening responsive design and Git/GitHub workflows
+- JavaScript is the next major step in my learning path
 
 ## Featured project
 
-### Netflix Landing Page Clone
+### [Netflix Landing Page Clone](https://github.com/naitik595/Netflix-Landing-Page-Clone)
 
-A responsive Netflix-inspired landing page built with HTML and CSS to practice layout, typography, responsive design, and visual styling.
+A responsive Netflix-inspired landing page built with HTML and CSS to practice layout, typography, visual hierarchy, and responsive UI development.
 
-[View the repository](https://github.com/naitik595/Netflix-Landing-Page-Clone) · [View the live demo](https://naitik595.github.io/Netflix-Landing-Page-Clone/)
+[View live demo](https://naitik595.github.io/Netflix-Landing-Page-Clone/)
 
 ## Learning repository
 
-[Sigma Web Development Course](https://github.com/naitik595/Sigma-Web-Development-Course)
+### [Sigma Web Development Course](https://github.com/naitik595/Sigma-Web-Development-Course)
 
-My course exercises, progress tracking, notes, and project milestones are documented in this repository.
+Course exercises, progress tracking, notes, and project milestones from my web-development journey.
 
-## Technologies I'm learning
+## Current toolkit
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="HTML, CSS, Git, and GitHub" />
 </p>
 
-**Next:** JavaScript → React → Node.js / Express → MongoDB → Next.js → TypeScript
+## Roadmap
+
+```text
+HTML + CSS          Complete
+Responsive design   In progress
+JavaScript          Next
+React               Planned
+Node.js + Express   Planned
+MongoDB             Planned
+Next.js             Planned
+TypeScript          Planned
+```
+
+## What I value
+
+- Understanding the fundamentals instead of only copying solutions
+- Building projects to apply each concept
+- Writing clear, accessible, and maintainable code
+- Improving consistently at a sustainable pace
 
 ## Connect
 
 - GitHub: [@naitik595](https://github.com/naitik595)
 - Email: [naitik04560@gmail.com](mailto:naitik04560@gmail.com)
 
-I am learning in public, one project and one concept at a time.
+<div align="center">
+
+*Learning in public, one concept and one project at a time.*
+
+</div>
