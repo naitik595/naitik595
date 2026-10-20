@@ -27,7 +27,6 @@ Building clean, responsive web experiences through structured learning and hands
 
 A responsive Netflix-inspired landing page built with HTML and CSS to practice layout, typography, visual hierarchy, and responsive UI development.
 
-[View live demo](https://naitik595.github.io/Netflix-Landing-Page-Clone/)
 
 ## Learning repository
 
