@@ -44,7 +44,6 @@ Course exercises, progress tracking, notes, and project milestones from my web-d
 
 ```text
 HTML + CSS          Complete
-Responsive design   In progress
 JavaScript          Next
 React               Planned
 Node.js + Express   Planned
