@@ -7,7 +7,7 @@
 Building clean, responsive web experiences through structured learning and hands-on projects.
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,github" alt="HTML, CSS, JS, Git, and GitHub" width="200" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" alt="HTML, CSS, JS, Git, and GitHub" width="200" />
 </p>
 
 </div>
