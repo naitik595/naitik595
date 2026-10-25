@@ -40,7 +40,7 @@ Course exercises, progress tracking, notes, and project milestones from my web-d
 
 ```text
 HTML + CSS          Complete
-JavaScript          In progress
+JavaScript          Next
 React               Planned
 Node.js + Express   Planned
 MongoDB             Planned
