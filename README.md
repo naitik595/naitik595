@@ -20,12 +20,15 @@ Building clean, responsive web experiences through structured learning and hands
 - Currently strengthening responsive design and Git/GitHub workflows
 - JavaScript is the next major step in my learning path
 
-## Featured project
+## Featured projects
 
 ### [Netflix Landing Page Clone](https://github.com/naitik595/Netflix-Landing-Page-Clone)
 
 A responsive Netflix-inspired landing page built with HTML and CSS to practice layout, typography, visual hierarchy, and responsive UI development.
 
+### [Personal Portfolio](https://github.com/naitik595/Personal-Portfolio-Landing-Page)
+
+My personal developer portfolio built with HTML and CSS, featuring responsive sections, a learning timeline, and a project showcase.
 
 ## Learning repository
 
@@ -33,17 +36,11 @@ A responsive Netflix-inspired landing page built with HTML and CSS to practice l
 
 Course exercises, progress tracking, notes, and project milestones from my web-development journey.
 
-## Current toolkit
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="HTML, CSS, Git, and GitHub" width="240" />
-</p>
-
 ## Roadmap
 
 ```text
 HTML + CSS          Complete
-JavaScript          Next
+JavaScript          In progress
 React               Planned
 Node.js + Express   Planned
 MongoDB             Planned
@@ -61,6 +58,7 @@ TypeScript          Planned
 ## Connect
 
 - GitHub: [@naitik595](https://github.com/naitik595)
+- LinkedIn: [Naitik Rajput](https://www.linkedin.com/in/naitik-rajput-8740133b2/)
 - Email: [naitik04560@gmail.com](mailto:naitik04560@gmail.com)
 
 <div align="center">
