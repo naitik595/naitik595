@@ -18,7 +18,7 @@ Building clean, responsive web experiences through structured learning and hands
 - Completed HTML and CSS fundamentals
 - Building and documenting real projects while learning in public
 - Currently strengthening responsive design and Git/GitHub workflows
-- JavaScript is the next major step in my learning path
+- Currently learning JavaScript
 
 ## Featured projects
 
@@ -40,7 +40,7 @@ Course exercises, progress tracking, notes, and project milestones from my web-d
 
 ```text
 HTML + CSS          Complete
-JavaScript          Next
+JavaScript          In progress
 React               Planned
 Node.js + Express   Planned
 MongoDB             Planned
